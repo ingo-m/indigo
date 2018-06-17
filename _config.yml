@@ -36,11 +36,11 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-gitlab: https://gitlab.com/ingo-m
-github: https://github.com/ingo-m
-twitter: https://twitter.com/Ingo_Marquardt
+gitlab: ingo-m
+github: ingo-m
+twitter: Ingo_Marquardt
 # google: mygoogle
-instagram: http://instagram.com/post.analogue
+instagram: post.analogue
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
