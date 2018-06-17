@@ -16,7 +16,8 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: http://ingo-m.github.io
+# url: https://koppl.in/indigo
 # your url: http://ingo-m.github.io
 
 permalink: /:title/
